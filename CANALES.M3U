@@ -1,3 +1,8 @@
+https://iptv-org.github.io/iptv/countries/us.m3u
+
+#EXTM3U8
+https://iptv-org.github.io/iptv/countries/do.m3u
+
 #EXTM3U8
 #EXTINF:-1 ,PUERTO RICO
 https://stream.ecable.tv/afrobeats/index.m3u8
