@@ -1,308 +1,170 @@
 
 #EXTM3U8
 #EXTINF:-1 ,ROTOTEN="" LIGA=""
-https://iptv-org.github.io/iptv/index.country.m3u
+🇦🇫 Afganistán	6	https://iptv-org.github.io/iptv/countries/af.m3u	
+🇦🇱 Albania	15	https://iptv-org.github.io/iptv/countries/al.m3u	
+🇩🇿 Argelia	2	https://iptv-org.github.io/iptv/countries/dz.m3u	
+🇦🇩 Andorra	2	https://iptv-org.github.io/iptv/countries/ad.m3u	
+🇦🇴 angola	1	https://iptv-org.github.io/iptv/countries/ao.m3u	
+🇦🇷 Argentina	46	https://iptv-org.github.io/iptv/countries/ar.m3u	
+🇦🇲 Armenia	8	https://iptv-org.github.io/iptv/countries/am.m3u	
+🇦🇼 Aruba	3	https://iptv-org.github.io/iptv/countries/aw.m3u	
+🇦🇺 Australia	15	https://iptv-org.github.io/iptv/countries/au.m3u	http://i.mjh.nz/nzau/epg.xml.gz
+🇦🇹 Austria	dieciséis	https://iptv-org.github.io/iptv/countries/at.m3u	http://epg.streamstv.me/epg/guide-austria.xml.gz
+🇦🇿 Azerbaiyán	11	https://iptv-org.github.io/iptv/countries/az.m3u	https://iptvx.one/epg/epg.xml.gz
+🇧🇭 Baréin	8	https://iptv-org.github.io/iptv/countries/bh.m3u	
+🇧🇩 bangladesh	5	https://iptv-org.github.io/iptv/countries/bd.m3u	
+🇧🇧 barbados	1	https://iptv-org.github.io/iptv/countries/bb.m3u	
+🇧🇾 Bielorrusia	11	https://iptv-org.github.io/iptv/countries/by.m3u	https://iptvx.one/epg/epg.xml.gz
+🇧🇪 Bélgica	24	https://iptv-org.github.io/iptv/countries/be.m3u	
+🇧🇴 Bolivia	10	https://iptv-org.github.io/iptv/countries/bo.m3u	
+🇧🇦 Bosnia y Herzegovina	3	https://iptv-org.github.io/iptv/countries/ba.m3u	http://epg.streamstv.me/epg/guide-exyu.xml.gz
+🇧🇷 Brasil	123	https://iptv-org.github.io/iptv/countries/br.m3u	
+🇧🇳 Brunéi	3	https://iptv-org.github.io/iptv/countries/bn.m3u	
+🇧🇬 Bulgaria	dieciséis	https://iptv-org.github.io/iptv/countries/bg.m3u	
+🇧🇫 Burkina Faso	1	https://iptv-org.github.io/iptv/countries/bf.m3u	
+🇰🇭 Camboya	6	https://iptv-org.github.io/iptv/countries/kh.m3u	
+🇨🇲 Camerún	5	https://iptv-org.github.io/iptv/countries/cm.m3u	
+🇨🇦 Canadá	30	https://iptv-org.github.io/iptv/countries/ca.m3u	http://epg.streamstv.me/epg/guide-canada.xml.gz
+🇨🇱 Chile	39	https://iptv-org.github.io/iptv/countries/cl.m3u	
+🇨🇳 Porcelana	1015	https://iptv-org.github.io/iptv/countries/cn.m3u	http://epg.51zmt.top:8000/e.xml.gz
+🇨🇴 Colombia	20	https://iptv-org.github.io/iptv/countries/co.m3u	
+🇨🇷 Costa Rica	9	https://iptv-org.github.io/iptv/countries/cr.m3u	
+🇭🇷 Croacia	14	https://iptv-org.github.io/iptv/countries/hr.m3u	http://tvprofil.net/xmltv/data/epg_tvprofil.net.xml
+🇨🇼 curazao	3	https://iptv-org.github.io/iptv/countries/cw.m3u	
+🇨🇾 Chipre	14	https://iptv-org.github.io/iptv/countries/cy.m3u	
+🇨🇿 Republica checa	18	https://iptv-org.github.io/iptv/countries/cz.m3u	http://epg.streamstv.me/epg/guide-cz.xml.gz
+🇨🇩 República Democrática del Congo	1	https://iptv-org.github.io/iptv/countries/cd.m3u	
+🇩🇰 Dinamarca	14	https://iptv-org.github.io/iptv/countries/dk.m3u	
+🇩🇴 República Dominicana	25	https://iptv-org.github.io/iptv/countries/do.m3u	
+🇪🇨 Ecuador	8	https://iptv-org.github.io/iptv/countries/ec.m3u	
+🇪🇬 Egipto	8	https://iptv-org.github.io/iptv/countries/eg.m3u	
+🇸🇻 El Salvador	2	https://iptv-org.github.io/iptv/countries/sv.m3u	
+🇬🇶 Guinea Ecuatorial	1	https://iptv-org.github.io/iptv/countries/gq.m3u	
+🇪🇪 Estonia	3	https://iptv-org.github.io/iptv/countries/ee.m3u	
+🇪🇹 Etiopía	1	https://iptv-org.github.io/iptv/countries/et.m3u	
+🇫🇴 Islas Faroe	1	https://iptv-org.github.io/iptv/countries/fo.m3u	
+🇫🇮 Finlandia	3	https://iptv-org.github.io/iptv/countries/fi.m3u	
+🇫🇯 Fiyi	1	https://iptv-org.github.io/iptv/countries/fj.m3u	
+🇫🇷 Francia	59	https://iptv-org.github.io/iptv/countries/fr.m3u	
+🇬🇲 Gambia	1	https://iptv-org.github.io/iptv/countries/gm.m3u	
+🇬🇪 Georgia	41	https://iptv-org.github.io/iptv/countries/ge.m3u	
+🇩🇪 Alemania	160	https://iptv-org.github.io/iptv/countries/de.m3u	
+🇬🇭 Ghana	3	https://iptv-org.github.io/iptv/countries/gh.m3u	
+🇬🇷 Grecia	55	https://iptv-org.github.io/iptv/countries/gr.m3u	
+🇬🇵 Guadalupe	1	https://iptv-org.github.io/iptv/countries/gp.m3u	
+🇬🇾 Guayana	2	https://iptv-org.github.io/iptv/countries/gy.m3u	
+🇭🇹 Haití	8	https://iptv-org.github.io/iptv/countries/ht.m3u	
+🇭🇳 Honduras	17	https://iptv-org.github.io/iptv/countries/hn.m3u	
+🇭🇰 Hong Kong	20	https://iptv-org.github.io/iptv/countries/hk.m3u	
+🇭🇺 Hungría	18	https://iptv-org.github.io/iptv/countries/hu.m3u	http://epg.streamstv.me/epg/guide-hungry.xml.gz
+🇮🇸 Islandia	3	https://iptv-org.github.io/iptv/countries/is.m3u	
+🇮🇳 India	153	https://iptv-org.github.io/iptv/countries/in.m3u	http://epg.streamstv.me/epg/guide-india.xml.gz
+🇮🇩 Indonesia	51	https://iptv-org.github.io/iptv/countries/id.m3u	
+🌎 Internacional	75	https://iptv-org.github.io/iptv/countries/int.m3u	
+🇮🇷 Irán	90	https://iptv-org.github.io/iptv/countries/ir.m3u	
+🇮🇶 Irak	33	https://iptv-org.github.io/iptv/countries/iq.m3u	
+🇮🇪 Irlanda	3	https://iptv-org.github.io/iptv/countries/ie.m3u	
+🇮🇱 Israel	17	https://iptv-org.github.io/iptv/countries/il.m3u	http://epg.streamstv.me/epg/guide-israel.xml.gz
+🇮🇹 Italia	142	https://iptv-org.github.io/iptv/countries/it.m3u	
+🇨🇮 Costa de Marfil	3	https://iptv-org.github.io/iptv/countries/ci.m3u	
+🇯🇲 Jamaica	2	https://iptv-org.github.io/iptv/countries/jm.m3u	
+🇯🇵 Japón	15	https://iptv-org.github.io/iptv/countries/jp.m3u	
+🇯🇴 Jordán	7	https://iptv-org.github.io/iptv/countries/jo.m3u	
+🇰🇿 Kazajistán	24	https://iptv-org.github.io/iptv/countries/kz.m3u	https://iptvx.one/epg/epg.xml.gz
+🇰🇪 Kenia	2	https://iptv-org.github.io/iptv/countries/ke.m3u	
+🇽🇰 Kosovo	10	https://iptv-org.github.io/iptv/countries/xk.m3u	
+🇰🇼 Kuwait	12	https://iptv-org.github.io/iptv/countries/kw.m3u	
+🇰🇬 Kirguistán	8	https://iptv-org.github.io/iptv/countries/kg.m3u	
+🇱🇦 Laos	4	https://iptv-org.github.io/iptv/countries/la.m3u	
+🇱🇻 letonia	4	https://iptv-org.github.io/iptv/countries/lv.m3u	https://iptvx.one/epg/epg.xml.gz
+🇱🇧 Líbano	18	https://iptv-org.github.io/iptv/countries/lb.m3u	
+🇱🇾 Libia	8	https://iptv-org.github.io/iptv/countries/ly.m3u	
+🇱🇮 Liechtenstein	2	https://iptv-org.github.io/iptv/countries/li.m3u	
+🇱🇹 Lituania	1	https://iptv-org.github.io/iptv/countries/lt.m3u	https://iptvx.one/epg/epg.xml.gz
+🇱🇺 luxemburgo	2	https://iptv-org.github.io/iptv/countries/lu.m3u	
+🇲🇴 Macao	5	https://iptv-org.github.io/iptv/countries/mo.m3u	
+🇲🇾 Malasia	21	https://iptv-org.github.io/iptv/countries/my.m3u	https://freeview.github.io/iptv/epg/tv.xml
+🇲🇹 Malta	1	https://iptv-org.github.io/iptv/countries/mt.m3u	http://epg.streamstv.me/epg/guide-malta.xml.gz
+🇲🇽 México	34	https://iptv-org.github.io/iptv/countries/mx.m3u	
+🇲🇩 Moldavia	15	https://iptv-org.github.io/iptv/countries/md.m3u	https://iptvx.one/epg/epg.xml.gz
+🇲🇳 Mongolia	6	https://iptv-org.github.io/iptv/countries/mn.m3u	
+🇲🇪 montenegro	4	https://iptv-org.github.io/iptv/countries/me.m3u	
+🇲🇦 Marruecos	19	https://iptv-org.github.io/iptv/countries/ma.m3u	
+🇲🇿 Mozambique	4	https://iptv-org.github.io/iptv/countries/mz.m3u	
+🇲🇲 Birmania	17	https://iptv-org.github.io/iptv/countries/mm.m3u	
+🇳🇵 Nepal	8	https://iptv-org.github.io/iptv/countries/np.m3u	
+🇳🇱 Países Bajos	57	https://iptv-org.github.io/iptv/countries/nl.m3u	
+🇳🇿 Nueva Zelanda	8	https://iptv-org.github.io/iptv/countries/nz.m3u	http://i.mjh.nz/nzau/epg.xml.gz
+🇳🇮 Nicaragua	2	https://iptv-org.github.io/iptv/countries/ni.m3u	
+🇳🇬 Nigeria	3	https://iptv-org.github.io/iptv/countries/ng.m3u	
+🇰🇵 Corea del Norte	1	https://iptv-org.github.io/iptv/countries/kp.m3u	
+🇲🇰 macedonia del norte	10	https://iptv-org.github.io/iptv/countries/mk.m3u	
+🇳🇴 Noruega	3	https://iptv-org.github.io/iptv/countries/no.m3u	http://epg.streamstv.me/epg/guide-norway.xml.gz
+🇴🇲 Omán	5	https://iptv-org.github.io/iptv/countries/om.m3u	
+🇵🇰 Pakistán	43	https://iptv-org.github.io/iptv/countries/pk.m3u	
+🇵🇸 Palestina	11	https://iptv-org.github.io/iptv/countries/ps.m3u	
+🇵🇦 Panamá	4	https://iptv-org.github.io/iptv/countries/pa.m3u	
+🇵🇾 Paraguay	2	https://iptv-org.github.io/iptv/countries/py.m3u	
+🇵🇪 Perú	20	https://iptv-org.github.io/iptv/countries/pe.m3u	
+🇵🇭 Filipinas	11	https://iptv-org.github.io/iptv/countries/ph.m3u	
+🇵🇱 Polonia	9	https://iptv-org.github.io/iptv/countries/pl.m3u	
+🇵🇹 Portugal	22	https://iptv-org.github.io/iptv/countries/pt.m3u	
+🇵🇷 Puerto Rico	3	https://iptv-org.github.io/iptv/countries/pr.m3u	
+🇶🇦 Katar	12	https://iptv-org.github.io/iptv/countries/qa.m3u	
+🇷🇴 Rumania	76	https://iptv-org.github.io/iptv/countries/ro.m3u	
+🇷🇺 Rusia	236	https://iptv-org.github.io/iptv/countries/ru.m3u	https://iptvx.one/epg/epg.xml.gz
+🇷🇼 Ruanda	5	https://iptv-org.github.io/iptv/countries/rw.m3u	
+🇰🇳 San Cristóbal y Nieves	3	https://iptv-org.github.io/iptv/countries/kn.m3u	
+🇸🇲 San Marino	1	https://iptv-org.github.io/iptv/countries/sm.m3u	
+🇸🇦 Arabia Saudita	29	https://iptv-org.github.io/iptv/countries/sa.m3u	
+🇸🇳 Senegal	1	https://iptv-org.github.io/iptv/countries/sn.m3u	
+🇷🇸 Serbia	8	https://iptv-org.github.io/iptv/countries/rs.m3u	http://epg.streamstv.me/epg/guide-exyu.xml.gz
+🇸🇱 Sierra Leona	1	https://iptv-org.github.io/iptv/countries/sl.m3u	
+🇸🇬 Singapur	8	https://iptv-org.github.io/iptv/countries/sg.m3u	https://freeview.github.io/iptv/epg/tv.xml
+🇸🇰 Eslovaquia	34	https://iptv-org.github.io/iptv/countries/sk.m3u	
+🇸🇮 Eslovenia	6	https://iptv-org.github.io/iptv/countries/si.m3u	
+🇸🇴 Somalia	1	https://iptv-org.github.io/iptv/countries/so.m3u	
+🇿🇦 Sudáfrica	1	https://iptv-org.github.io/iptv/countries/za.m3u	http://i.mjh.nz/za/DStv/epg.xml.gz
+🇰🇷 Corea del Sur	29	https://iptv-org.github.io/iptv/countries/kr.m3u	
+🇪🇸 España	94	https://iptv-org.github.io/iptv/countries/es.m3u	
+🇱🇰 Sri Lanka	4	https://iptv-org.github.io/iptv/countries/lk.m3u	
+🇸🇩 Sudán	7	https://iptv-org.github.io/iptv/countries/sd.m3u	
+🇸🇪 Suecia	12	https://iptv-org.github.io/iptv/countries/se.m3u	
+🇨🇭 Suiza	21	https://iptv-org.github.io/iptv/countries/ch.m3u	
+🇸🇾 Siria	19	https://iptv-org.github.io/iptv/countries/sy.m3u	
+🇹🇼 Taiwán	69	https://iptv-org.github.io/iptv/countries/tw.m3u	
+🇹🇯 Tayikistán	1	https://iptv-org.github.io/iptv/countries/tj.m3u	
+🇹🇿 Tanzania	1	https://iptv-org.github.io/iptv/countries/tz.m3u	
+🇹🇭 Tailandia	46	https://iptv-org.github.io/iptv/countries/th.m3u	
+🇹🇹 Trinidad y Tobago	1	https://iptv-org.github.io/iptv/countries/tt.m3u	
+🇹🇳 Túnez	3	https://iptv-org.github.io/iptv/countries/tn.m3u	
+🇹🇷 Pavo	69	https://iptv-org.github.io/iptv/countries/tr.m3u	
+🇹🇲 turkmenistán	11	https://iptv-org.github.io/iptv/countries/tm.m3u	
+🇺🇬 Uganda	1	https://iptv-org.github.io/iptv/countries/ug.m3u	
+🇺🇦 Ucrania	159	https://iptv-org.github.io/iptv/countries/ua.m3u	https://iptvx.one/epg/epg.xml.gz
+🇦🇪 Emiratos Árabes Unidos	45	https://iptv-org.github.io/iptv/countries/ae.m3u	
+🇪🇸 Reino Unido	36	https://iptv-org.github.io/iptv/countries/uk.m3u	
+🇺🇸 Estados Unidos	376	https://iptv-org.github.io/iptv/countries/us.m3u	http://epg.streamstv.me/epg/guide-usa.xml.gz
+🇺🇾 Uruguay	4	https://iptv-org.github.io/iptv/countries/uy.m3u	
+🇻🇪 Venezuela	2	https://iptv-org.github.io/iptv/countries/ve.m3u	
+🇻🇳 Vietnam	67	https://iptv-org.github.io/iptv/countries/vn.m3u	
+🇻🇮 Islas Vírgenes de los Estados Unidos	1	https://iptv-org.github.io/iptv/countries/vi.m3u	
+🇪🇭 Sahara Occidental	1	https://iptv-org.github.io/iptv/countries/eh.m3u	
+🇾🇪 Yemen	10	https://iptv-org.github.io/iptv/countries/ye.m3u
 
-#EXTINF:-1 ROTICIA="" LIGAMON=""
-https://iptv-org.github.io/iptv/countries/us.m3u
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://1.bp.blogspot.com/-FLTvj2Obt3U/V5poPSfN0sI/AAAAAAAADY4/z195qQVHOUULSU7m8JZuJQX3VTQPkSc6QCLcB/s1600/hit%20tv%20Series%20y%20Animes%20de%20Tv.png" group-title="SPAIN",Hit TV (Opt-1)
-http://kissfm-cires21-video.secure.footprint.net/hittv/bitrate_3.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://1.bp.blogspot.com/-FLTvj2Obt3U/V5poPSfN0sI/AAAAAAAADY4/z195qQVHOUULSU7m8JZuJQX3VTQPkSc6QCLcB/s1600/hit%20tv%20Series%20y%20Animes%20de%20Tv.png" group-title="SPAIN",Hit TV (Opt-2)
-http://kissfm-cires21-video.secure.footprint.net/hittv/master.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://vignette2.wikia.nocookie.net/logopedia/images/6/62/IB3_logo_2008_1.jpg" group-title="SPAIN",IB3
-http://ibsatiphone.ib3tv.com/iphoneliveIB3/IB3/bitrate_2.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f3/Se15.png" group-title="SPAIN",La 2
-http://rtvev4-live.hss.adaptive.level3.net/egress/ahandler/rtvegl0/la2_lv3_aosv4_gl0/la2_lv3_aosv4_gl0.isml/la2_lv3_aosv4_gl0.m3u8
-
-#EXTINF:-1,Efekto TV
-http://grupomac-lh.akamaihd.net:80/i/004rss0k8_1@301782/index_3_av-p.m3u8
-
-#EXTINF:-1,Efekto Tv SD
-http://grupomac-lh.akamaihd.net:80/i/004rss0k8_1@301782/index_3_av-p.m3u8?iptvgratis?chile.m3u8
-
-#EXTINF:0 type="stream" channelId="-1" tvg-logo="http://telesafor.com/wp-content/uploads/2016/08/telesafor_b.png", TeleSafor
-http://video.telesafor.com/hls/video_low.m3u8
-
-#EXTINF:0 type="stream" channelId="-1" tvg-logo="http://canal7televalencia.es/wp-content/uploads/2017/03/Logo_A_vertical-242x300.png", TeleValencia
-http://streaming.enetres.net/9E9557EFCEBB43A89CEC8FBD3C500247022/live.smil/.m3u8
-
-#EXTINF:0 type="stream" channelId="-1" tvg-logo="http://www.televisionvegabaja.es/wp-content/uploads/2016/11/favicon-150x150.png", Vega Baja TV
-http://185.29.68.24/tvb.m3u8
-
-#EXTINF:0 type="stream" channelId="-1" tvg-logo="http://www.mundoplus.tv/img/6fb358fa640c07279bfdad56844ba8ab", Canal Extremadura
-http://hlstv.canalextremadura.es/livetv/smil:multistream.smil/chunklist_b1596000_DVR.m3u8
-
-#EXTINF:0 type="stream" channelId="-1" tvg-logo="http://m.canalextremadura.es/sites/all/themes/canalex_2016/images/canalex/logotipo@2x.png", Canal Extremadura
-http://hlstv.canalextremadura.es/livetv/smil:multistream.smil/playlist.m3u8
-
-#EXTINF:0 type="stream" channelId="-1" tvg-logo="https://i.imgur.com/jl1Nnd4.png", TV Galicia America
-http://america-crtvg.flumotion.com/playlist.m3u8
-
-#EXTINF:0 type="stream" channelId="-1" tvg-logo="https://i.imgur.com/jl1Nnd4.png", TV Galicia Europa
-http://europa-crtvg.flumotion.com/playlist.m3u8
-
-#EXTINF:0 type="stream" channelId="2818" tvg-logo="http://statics.ccma.cat/multimedia/jpg/7/9/1466521666097.jpg", 3/24
-http://ccma-tva-int-abertis-live.hls.adaptive.level3.net/int/ngrp:324_mobil/chunklist_b548000.m3u8
-
-#EXTINF:0 type="stream" channelId="1664" tvg-logo="http://directostv.teleame.com/wp-content/uploads/2016/01/aragon-tv-logo.png", Aragon TV
-http://aragontv.stream.flumotion.com/aragontv/hls-live/main.m3u8
-
-#EXTINF:0 type="stream" channelId="1693" tvg-logo="http://www.levantetv.es/elementosWeb/version6_20100407/mediaweb/images/logoLevanteTv.jpg", Levante TV
-http://teledifusion.tv:1935/levantetvlive/levantetvlive/master.m3u8
-
-#EXTINF:0 type="stream" channelId="2814" tvg-logo="http://www.gelabert.net/wp-content/uploads/2016/06/LOGO-TV3-OFICIAL-FONS-NEGRE.jpg", TV3 (Opt-1)
-http://ccma-tva-int-abertis-live.hls.adaptive.level3.net/int/ngrp:tv3_web/playlist.m3u8
-
-#EXTINF:0 type="stream" channelId="352", DW
-http://dwstream3-lh.akamaihd.net/i/dwstream3_live@124409/index_5_av-p.m3u8?sd=10&rebase=on
-
-#EXTINF:-1,SPAIN:(ONLINE) Calle 13
-http://streaming.enetres.net:80/091DB7AFBD77442B9BA2F141DCC182F5021/mobile/chunklist.m3u8
-
-#EXTINF:-1,SPAIN:(ONLINE) 13 TV
-http://streaming.enetres.net:1935/091DB7AFBD77442B9BA2F141DCC182F5021/live.smil/stream.m3u8
-
-#EXTINF:-1,SPAIN:(ONLINE) Emporda TV
-http://ventdelnord.tv:8080/escala/directe.m3u8
-
-#EXTINF:-1,SPAIN:(ONLINE) La Xarxa
-http://video-streaming.laxarxa.com:1935/xal1/mp4:directe/playlist.m3u8
-
-#EXTINF:-1,SPAIN:(ONLINE) TEF TV
-http://server10.streaming-pro.com:1937/live/teftvlive/playlist.m3u8
-
-#EXTINF:-1,SPAIN:(ONLINE) TV3 (Opt-2)
-http://ccma-tva-int-abertis-live.hls.adaptive.level3.net/int/ngrp:tv3cat_web/chunklist_b1296000_DVR.m3u8
-
-#EXTINF:-1,TLX
-http://live-edge01.telecentro.net.ar/live/smil:tlx.smil/chunklist_w1527043435_b1828000_sleng.m3u8?
-
-#EXTINF:-1,Retro Tv
-http://stream.mediawork.cz/retrotv/retrotvHQ1/chunklist_w627639048.m3u8?
-
-#EXTINF:-1,RetroTV
-http://stream.mediawork.cz/retrotv/retrotvHQ1/playlist.m3u8
-
-#EXTINF:-1,M2o Tv
-http://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/index_600_av-b.m3u8?
-
-#EXTINF:-1,Power HD
-http://wowza.telpin.com.ar:1935/live-powerTV/power.stream/playlist.m3u8
-
-#EXTINF:-1,Canal Parlamento
-http://congresodirectomobile.edgesuite.net/live/live6.stream/manifest.m3u8
-
-#EXTINF:-1,SPACE
-http://189.216.247.113/Content/HLS/Live/Channel(SPACE)/index.m3u8
-
-#EXTINF:-1,NATGEO WILD
-http://189.216.247.113/Content/HLS/Live/Channel(NAT_GEO_WILD)/index.m3u8
-
-#EXTINF:-1,CULTURA:CGTN Documentary
-http://live.cgtn.com/cctv-d.m3u8
-
-#EXTINF:-1,SPAIN:(ONLINE) La Otra
-http://telemadridhls-live.hls.adaptive.level3.net/telemadrid/laotra1/index.m3u8
-
-#EXTINF:-1,Entretenimiento:Wow TV
-http://cdn.elsalvadordigital.com:1935/wowtv/wowtv/playlist.m3u8?
-
-#EXTINF:0,LA 1 ()
-http://rtvev4-live.hss.adaptive.level3.net/egress/ahandler/rtvegl7/la1_lv3_aosv4_gl7/la1_lv3_aosv4_gl7.isml/la1_lv3_aosv4_gl7-audio=128000-video=400000.m3u8
-
-#EXTINF:0,TVE 24H
-http://rtvev4-live.hss.adaptive.level3.net/egress/ahandler/rtvegl0/irtve01_lv3_aosv4_gl0/irtve01_lv3_aosv4_gl0.isml/irtve01_lv3_aosv4_gl0-audio=128000-video=400000.m3u8
-
-#EXTINF:-1,CILENCE TV
-http://109.236.85.100:8081/sipTV/live/playlist.m3u8
-
-#EXTINF:-1,CILENCE TV
-http://109.236.85.100:8081/sipTV/live/playlist.m3u8?www.tecnotv.info
-
-#EXTINF:0,Super 3
-http://ccma-tva-int-cellnex-live-hls.secure.footprint.net/int/ngrp:c33_web/chunklist_b1296000.m3u8
-
-#EXTINF:-1,NOTICIAS:CGTN 1
-https://livees.cgtn.com/1000e/prog_index.m3u8
-
-#EXTINF:0,HDFashion
-http://95.67.47.115/hls/hdfashion_ua_hi/index.m3u8?_=1518069241
-
-#EXTINF:0,CGTN Espanol
-http://live.cgtn.com/1000e/prog_index.m3u8
-
-#EXTINF:0,Extrema TV
-http://livestreamcdn.net:1935/ExtremaTV/ExtremaTV/playlist.m3u8
-
-#EXTINF:0,Deutsche Welle Latino | SD
-http://dwstream3-lh.akamaihd.net/i/dwstream3_live@124409/master.m3u8
-
-#EXTINF:0,SAT
-http://hlstv.canalextremadura.es/livetv/smil:multistream.smil/chunklist_b264000_DVR.m3u8
-
-#EXTINF:-1,ESPAÑA:TeleSafor | HD
-http://video.telesafor.com/hls/video_high.m3u8
-
-#EXTINF:0,La Otra
-http://laotrahls-live.hls.adaptive.level3.net/telemadrid/laotra1/index.m3u8
-
-#EXTINF:0,7TV Murcia
-http://rtvmurcia_01-lh.akamaihd.net/i/rtvmurcia_1_0@507973/index_0_av-p.m3u8
-
-#EXTINF:0,Telemadrid
-http://telemadridhls-live.hls.adaptive.level3.net/telemadrid/telemadrid1/bitrate_1.m3u8
-
-#EXTINF:0,Canal Parlamento
-http://congresodirecto-f.akamaihd.net/i/congreso6_1@54665/master.m3u8
-
-#EXTINF:0,324 Cataluña
-http://ccma-tva-int-abertis-live.hls.adaptive.level3.net/int/ngrp:324_web/playlist.m3u8
-
-#EXTINF:0,SP:IB3 - Baleares
-http://ibsatiphone.ib3tv.com/iphoneliveIB3/IB3/bitrate_3.m3u8
-
-#EXTINF:0,SP:Andorra TV - Lleida
-http://194.158.80.31:443/live/web/master.m3u8
-
-#EXTINF:0,Canal 13 TV
-http://streaming.enetres.net/091DB7AFBD77442B9BA2F141DCC182F5021/mobile/playlist.m3u8
-
-#EXTINF:0,ALCARRIA TV
-http://217.182.77.27/live/alcarriatv-livestream.m3u8
-
-#EXTINF:0,Lasuper TV
-http://iptvcolombia.ddns.net/hls-live/livepkgr/_definst_/liveevent/lasupertv.m3u8
-
-#EXTINF:0,DJING
-http://www.djing.com/tv/ibiza.m3u8
-
-#EXTINF:0,NRJ HITS
-http://5.196.138.6:1935/live/nrjbelgique/chunklist_w1339281553.m3u8
-
-#EXTINF:0,SP:Hit TV
-http://kissfm-cires21-video.secure.footprint.net/hittv/bitrate_4.m3u8
-
-#EXTINF:0,Teleritmo | SD
-http://mdstrm.com/live-stream-playlist/57b4dc126338448314449d0c.m3u8
-
-#EXTINF:0,M2O TV | SD
-http://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/index_600_av-b.m3u8?sd=10&amp;rebase=on
-
-#EXTINF:0,Music Top | HD
-http://live-edge01.telecentro.net.ar/live/msctphd-720/playlist.m3u8
-
-#EXTINF:0,MUSIC TOP
-http://live-edge01.telecentro.net.ar/live/smil:musictop.smil/chunklist_w538311571_b364000_sleng.m3u8
-
-#EXTINF:0,Radio 105 Network | HD
-http://fms.105.net:1935/live/105Test1/playlist.m3u8
-
-#EXTINF:0,Portal FoxMix | HD
-http://149.56.17.92:1935/portalfoxmix/_definst_/portalfoxmix/playlist.m3u8
-
-#EXTINF:0,RETRO MUSIC HD
-http://stream.mediawork.cz/retrotv//retrotvHQ1/playlist.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://sergioalvarezweb.hol.es/img/navarratv.png" group-title="SPAIN",Navarra TV (Opt-1)
-http://cdn.s3.eu.nice264.com:1935/niceLiveServer/NTV_livenatvmb_MB_478/live.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://1.bp.blogspot.com/-twjWLzywppo/VnBHIEtqgRI/AAAAAAAABOY/ZiwcFOt-rcg/s1600/rtvce.jpeg" group-title="SPAIN",RTVCE
-http://teledifusion.tv:1935/rtvcetv/rtvcetvlive/playlist.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.teleelx.es/eniusimg/enius2/2016/01/adj_569e704973b6d.jpg" group-title="SPAIN",TeleElx
-http://teledifusion.tv:1935/teleelx/teleelxlive/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="http://i.imgur.com/VlMzpJH.png" group-title="Canales Españoles", Canal 13 España | SD
-http://streaming.enetres.net/091DB7AFBD77442B9BA2F141DCC182F5021/mobile/.m3u8
-
-#EXTINF:-1 tvg-logo="http://i.imgur.com/6tlqsqj.png" group-title="Canales Españoles", IB3 | SD
-http://ibsatiphone.ib3tv.com/iphoneliveIB3/IB3/IB3.m3u8
-
-#EXTINF:-1 tvg-logo="http://i.imgur.com/tio3Wpw.png" group-title="Canales Españoles", 324 | SD
-http://ccma-tva-int-abertis-live.hls.adaptive.level3.net/int/ngrp:324_mobil/master.m3u8
-
-#EXTINF:-1 tvg-logo="http://i.imgur.com/OKXbIr9.png" group-title="Canales Españoles", Lebrija TV | SD
-http://212.104.160.156:1935/live/lebrijatv2/playlist3.m3u8
-
-#EXTINF:-1 tvg-logo="http://i.imgur.com/A8HIM2v.png" group-title="Canales Españoles", Onda Cadiz | SD
-http://api.new.livestream.com/accounts/22727797/events/7923562/live.m3u8
-
-#EXTINF:-1 tvg-logo="http://i.imgur.com/V4ig3Hn.png" group-title="Canales Españoles", 7TV | SD
-http://rtvmurcia_01-lh.akamaihd.net/i/rtvmurcia_1_0@507973/master.m3u8
-
-#EXTINF:-1 tvg-logo="http://i.imgur.com/ROPlvzc.png" group-title="Canales Españoles", A Punt | SD
-https://cflive-emea.live-delivery.ooyala.com/out/u/jb44pwd2tj7w5/111819/wyYXIxZTE6okZbyKLzxq8TXa4a-SQlAO/cs/d77d4356674b449695b1c0f19fbd6fae_6.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.vsn-tv.com/wp-content/uploads/2014/11/logo_atv.jpg" group-title="SPAIN",Andorra TV (Andorra)
-http://194.158.80.31:443/live/rtva/playlist.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.ptvtelecom.com/ficheros/imagennoticia311_0.jpg" group-title="SPAIN",Canal Parlamento
-http://congresodirecto-f.akamaihd.net:80/i/congreso6_1@54665/master.m3u8
-
-#EXTINF:-1,ETB Sat
-http://etbvnogeo-lh.akamaihd.net/i/ETBEITBEUS_1@300391/index_0564_av-p.m3u8
-
-#EXTINF:0 type="stream" channelId="736" tvg-logo="https://yt3.ggpht.com/a-/ACSszfFBVcVBVuU9re2ZwpqZD9sGJPlCDiPEARLOGg=s900-mo-c-c0xffffffff-rj-k-no", CGTN Español
-http://livees.cgtn.com/1000e/prog_index.m3u8
-
-#EXTINF:0 type="stream" channelId="-1" tvg-logo="http://www.canal4tenerife.tv/wp-content/uploads/2017/02/LOGO-CANAL-4-azul-80.png", Canal 4 Tenerife
-https://5940924978228.streamlock.net/Directo2/Directo2/chunklist_w221845664.m3u8
-
-#EXTINF:0 type="stream" channelId="-1" tvg-logo="http://www.lancelot.tv/lancelot.jpg", Lancelot TV
-http://62.210.141.18:1935/directo/lancelot.television/live.m3u8
-
-#EXTINF:-1,LOCOMOTION
-http://locomotiontv.com/envivo/loco_channel/stream.m3u8
-
-#EXTINF:-1,[COLOR WHITE] [/COLOR] BANDA MAX
-http://189.216.247.113/Content/HLS/Live/Channel(BANDAMAX)/index.m3u8
-
-#EXTINF:-1,[COLOR WHITE] [/COLOR] NICK
-http://189.216.247.113/Content/HLS/Live/Channel(NICK_HD)/index.m3u8
-
-#EXTINF:-1,[COLOR WHITE] [/COLOR] NICK_JR
-http://189.216.247.113/Content/HLS/Live/Channel(NICK_JR)/index.m3u8
-
-#EXTINF:-1,NOVA
-http://a3live-lh.akamaihd.net/i/nvhds/geonova_1@379404/master.m3u8
-
-#EXTINF:-1 group-title= "PAISES" ,CNN (Noticias Chile)  S. y L.)
-http://unlimited1-us.dps.live/cnn/cnn.smil/cnn/livestream1/chunks.m3u8
-
-#EXTINF:-1   group-title= "PAISES", tvg-logo="tZ3gJiP.png" , Canal 9 [SD] (Concepcion)
-http://unlimited2-cl.dps.live/c9/c9.smil/playlist.m3u8
-
-#EXTINF:-1   group-title= "PAISES", tvg-logo="MXJPXNd.png" , Canal 9 Salta[SD]
-http://panel.dattalive.com:1935/8250/8250/playlist.m3u8
-
-
-
-https://iptv-org.github.io/iptv/countries/us.m3u
-
-#EXTM3U8
-https://iptv-org.github.io/iptv/countries/do.m3u
 
 #EXTM3U8
 #EXTINF:-1 ,PUERTO RICO
 https://stream.ecable.tv/afrobeats/index.m3u8
 
 #EXTM3U8
-#EXTINF:-1 ,REPUBLICA DOMINICANA
-http://free.fullspeed.tv/iptv-query?streaming-ip=https://livestream.com/accounts/27456795/events/10633798/player
-
-#EXTM3U8
-#EXTINF:-1 ,WNJU-DT1 (Telemundo 47)
+#EXTINF:-1 ,TELEMUNDO NO SENAL
 http://v-ny.theus6tv.duckdns.org/hls/47.1/playlist.m3u8
 
 #EXTM3U8
 #EXTINF:-1 ,UNIMAS USA NUEVO HOY
 http://v-ny.theus6tv.duckdns.org/hls/68.1/playlist.m3u8
 
-#EXTM3U8
-#EXTINF:-1 ,376 USA
-https://iptv-org.github.io/iptv/countries/us.m3u
+
 
