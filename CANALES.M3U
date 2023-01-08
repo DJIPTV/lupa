@@ -1,7 +1,11 @@
 
 #EXTM3U8
-#EXTINF:-1 ,MY DJ LIVE TV
-🇦🇫 Afganistán	6	https://iptv-org.github.io/iptv/countries/af.m3u	
+#EXTINF:-1 ,AGANISTAN
+🇦🇫 Afganistán	6	https://iptv-org.github.io/iptv/countries/af.m3u
+#EXTM3U8
+#EXTINF:-1 ,XXX
+https://iptv-org.github.io/iptv/categories/xxx.m3u
+
 🇦🇱 Albania	15	https://iptv-org.github.io/iptv/countries/al.m3u	
 🇩🇿 Argelia	2	https://iptv-org.github.io/iptv/countries/dz.m3u	
 🇦🇩 Andorra	2	https://iptv-org.github.io/iptv/countries/ad.m3u	
