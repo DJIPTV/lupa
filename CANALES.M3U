@@ -1,4 +1,6 @@
-#EXTINF:-1 ROTOTEN="" LIGA=""
+
+#EXTM3U8
+#EXTINF:-1 ,ROTOTEN="" LIGA=""
 https://iptv-org.github.io/iptv/index.country.m3u
 
 #EXTINF:-1 ROTICIA="" LIGAMON=""
@@ -290,7 +292,7 @@ https://stream.ecable.tv/afrobeats/index.m3u8
 
 #EXTM3U8
 #EXTINF:-1 ,REPUBLICA DOMINICANA
-https://iptv-org.github.io/iptv/countries/do.m3u
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://livestream.com/accounts/27456795/events/10633798/player
 
 #EXTM3U8
 #EXTINF:-1 ,WNJU-DT1 (Telemundo 47)
