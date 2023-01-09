@@ -5,17 +5,20 @@ http://v-ny.theus6tv.duckdns.org/hls/68.1/playlist.m3u8
 #EXTINF:-1,group-title="UNIMAS UNIVISION", Univision East [Geo-blocked]
 https://unidfp-nlds155.global.ssl.fastly.net/nlds/univisionnow/univision_east2/as/live/univision_east2_hd_pc.m3u8?t1=
 
-#EXTINF:-1,"TELEMUNDO", TELEMUNDO PUERTO RICO
+#EXTINF:-1,group-title="TELEMUNDO", TELEMUNDO PUERTO RICO
 https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream1/master.m3u8
 
-#EXTINF:-1,"TELEMUNDO", TELEMUNDO TELENOVELAS
+#EXTINF:-1,group-title="TELEMUNDO", TELEMUNDO TELENOVELAS
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5cf96cc422df39f1a338d165/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5cf96cc422df39f1a338d165&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=940&terminate=false&userId=
 
-#EXTINF:-1,"ADULT", XXX
+#EXTINF:-1,group-title="XXX", AdultIPTV.net Blonde (720p)
+http://cdn.adultiptv.net/blonde.m3u8
+
+#EXTINF:-1,group-title="XXX", AdultIPTV.net Blowjob (720p)
+http://cdn.adultiptv.net/blowjob.m3u8
+
+#EXTINF:-1,group-title="XXX PAQUETE", AdultIPTV
 https://iptv-org.github.io/iptv/categories/xxx.m3u
-
-
-
 
 #EXTINF:-1 ,AGANISTAN
 https://iptv-org.github.io/iptv/countries/af.m3u
