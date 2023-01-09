@@ -5,10 +5,10 @@ http://v-ny.theus6tv.duckdns.org/hls/68.1/playlist.m3u8
 #EXTINF:-1 ,AGANISTAN
 https://iptv-org.github.io/iptv/countries/af.m3u
 
-#EXTM3U
+#EXTM3U8
 https://iptv-org.github.io/iptv/categories/xxx.m3u
 
-https://iptv-org.github.io/iptv/countries/al.m3u	
+#EXTINF:-1 ,https://iptv-org.github.io/iptv/countries/al.m3u	
 
 
 #EXTM3U8
@@ -23,6 +23,9 @@ http://v-ny.theus6tv.duckdns.org/hls/47.1/playlist.m3u8
 #EXTINF:-1 ,UNIMAS USA NUEVO HOY
 http://v-ny.theus6tv.duckdns.org/hls/68.1/playlist.m3u8
 
+#EXTM3U8
+#EXTINF:-1 ,LOCAL
+C:\Users\server1\Dropbox\PC\Downloads
 
 🇩🇿 Argelia	2	https://iptv-org.github.io/iptv/countries/dz.m3u	
 🇦🇩 Andorra	2	https://iptv-org.github.io/iptv/countries/ad.m3u	
