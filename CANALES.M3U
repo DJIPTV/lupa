@@ -1,9 +1,8 @@
 
-#EXTM3U8
 #EXTINF:-1 ,AGANISTAN
-🇦🇫 Afganistán	6	https://iptv-org.github.io/iptv/countries/af.m3u
+https://iptv-org.github.io/iptv/countries/af.m3u
+
 #EXTM3U8
-#EXTINF:-1 ,XXX
 https://iptv-org.github.io/iptv/categories/xxx.m3u
 
 🇦🇱 Albania	15	https://iptv-org.github.io/iptv/countries/al.m3u	
